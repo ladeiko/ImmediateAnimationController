@@ -2,7 +2,7 @@
 //  ImmediateAnimationController.swift
 //
 //  Created by Siarhei Ladzeika on 6/26/17.
-//  Copyright © 2017 BPMobile. All rights reserved.
+//  Copyright © 2017 Siarhei Ladzeika. All rights reserved.
 //
 
 import UIKit

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name = "ImmediateAnimationController"
-    s.version = "1.0.1"
+    s.version = "1.0.2"
     s.summary = "ImmediateAnimationController implements UIViewControllerAnimatedTransitioning without any animation"
     s.homepage = "https://github.com/ladeiko/ImmediateAnimationController"
     s.license = { :type => "CUSTOM", :file => "LICENSE" }
