@@ -9,7 +9,7 @@ import UIKit
 
 open class ImmediateAnimationController: NSObject, UIViewControllerAnimatedTransitioning {
     
-    open static let shared = ImmediateAnimationController()
+    public static let shared = ImmediateAnimationController()
     
     public func transitionDuration(using transitionContext: UIViewControllerContextTransitioning?) -> TimeInterval {
         return 0.0
