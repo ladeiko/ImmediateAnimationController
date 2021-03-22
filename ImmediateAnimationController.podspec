@@ -10,4 +10,5 @@ Pod::Spec.new do |s|
   s.source_files = "Classes/**/*.{m,s,swift}"
   s.frameworks = "UIKit"
   s.requires_arc = true
+  s.swift_versions = "4.0", "4.2", "5.0", "5.1", "5.2", "5.3"
 end
